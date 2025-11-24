@@ -16,7 +16,7 @@
             <Code :size="96" />
           </div>
           <div class="relative z-10">
-            <div class="w-12 h-12 bg-white/5 border border-white/10 flex items-center justify-center mb-6 text-white group-hover:bg-white group-hover:text-black transition-colors">
+            <div class="w-12 h-12 bg-white/5 border border-white/10 flex items-center justify-center mb-6 text-white group-hover:bg-blue-500 group-hover:text-white transition-colors">
               <Terminal :size="24" />
             </div>
             <h3 class="text-xl font-bold text-white mb-4">核心工程</h3>
@@ -42,7 +42,7 @@
             <Server :size="96" />
           </div>
           <div class="relative z-10">
-            <div class="w-12 h-12 bg-white/5 border border-white/10 flex items-center justify-center mb-6 text-white group-hover:bg-white group-hover:text-black transition-colors">
+            <div class="w-12 h-12 bg-white/5 border border-white/10 flex items-center justify-center mb-6 text-white group-hover:bg-blue-500 group-hover:text-white transition-colors">
               <Zap :size="24" />
             </div>
             <h3 class="text-xl font-bold text-white mb-4">基础设施</h3>
@@ -68,7 +68,7 @@
             <Layers :size="96" />
           </div>
           <div class="relative z-10">
-            <div class="w-12 h-12 bg-white/5 border border-white/10 flex items-center justify-center mb-6 text-white group-hover:bg-white group-hover:text-black transition-colors">
+            <div class="w-12 h-12 bg-white/5 border border-white/10 flex items-center justify-center mb-6 text-white group-hover:bg-blue-500 group-hover:text-white transition-colors">
               <Activity :size="24" />
             </div>
             <h3 class="text-xl font-bold text-white mb-4">全栈交付</h3>

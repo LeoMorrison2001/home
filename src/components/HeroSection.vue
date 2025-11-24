@@ -77,7 +77,7 @@
               <span class="text-white">34%</span>
             </div>
             <div class="w-full bg-neutral-900 h-1 rounded-full overflow-hidden">
-              <div class="bg-white/40 w-[34%] h-full"></div>
+              <div class="bg-blue-500 w-[34%] h-full"></div>
             </div>
 
             <div class="flex justify-between items-center text-neutral-400 mt-6">
@@ -87,7 +87,7 @@
               <span class="text-white">62%</span>
             </div>
             <div class="w-full bg-neutral-900 h-1 rounded-full overflow-hidden">
-              <div class="bg-white/40 w-[62%] h-full"></div>
+              <div class="bg-blue-500 w-[62%] h-full"></div>
             </div>
 
             <div class="mt-8 p-4 bg-neutral-900/50 border border-white/5 rounded text-xs text-neutral-500 leading-loose">

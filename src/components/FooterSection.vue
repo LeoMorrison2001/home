@@ -14,7 +14,7 @@
       <div class="flex flex-col md:flex-row items-center justify-center gap-6">
         <button
           @click="sendEmail"
-          class="px-8 py-4 bg-white text-black text-lg font-bold tracking-wide hover:bg-neutral-200 transition-colors flex items-center gap-3 w-full md:w-auto justify-center"
+          class="px-8 py-4 bg-blue-500 text-white text-lg font-bold tracking-wide hover:bg-blue-600 transition-colors flex items-center gap-3 w-full md:w-auto justify-center"
         >
           <Mail :size="20" />
           发送邮件
@@ -36,9 +36,9 @@
           © {{ currentYear }} 任宇恒.
         </div>
         <div class="flex gap-8">
-          <a href="#" class="hover:text-white transition-colors">X</a>
-          <a href="#" class="hover:text-white transition-colors">NOTION</a>
-          <a href="#" class="hover:text-white transition-colors">YOUTUBE</a>
+          <a href="#" class="hover:text-blue-400 transition-colors">X</a>
+          <a href="#" class="hover:text-blue-400 transition-colors">NOTION</a>
+          <a href="#" class="hover:text-blue-400 transition-colors">YOUTUBE</a>
         </div>
       </div>
     </div>

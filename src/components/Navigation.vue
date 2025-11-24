@@ -27,7 +27,7 @@
         <span class="hidden md:block font-mono text-xs text-neutral-600">UTC {{ time }}</span>
         <button
           @click="scrollToContact"
-          class="px-4 py-2 border border-white/20 text-white text-xs font-bold uppercase tracking-wider hover:bg-white hover:text-black transition-all"
+          class="px-4 py-2 bg-blue-500 text-white text-xs font-bold uppercase tracking-wider hover:bg-blue-600 transition-all"
         >
           Contact
         </button>
