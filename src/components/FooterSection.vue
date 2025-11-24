@@ -31,7 +31,7 @@
         </button>
       </div>
 
-      <div class="mt-20 pt-10 border-t border-white/5 flex flex-col md:flex-row items-center justify-between gap-8 text-sm text-neutral-600">
+      <div class="mt-20 pt-10 border-t border-white/5 flex flex-row items-center justify-between gap-8 text-sm text-neutral-600">
         <div class="font-mono">
           © {{ currentYear }} 任宇恒.
         </div>
