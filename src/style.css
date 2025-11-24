@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+/* 确保 body 占据全屏且无边距 */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#app {
+  min-height: 100vh;
+}
