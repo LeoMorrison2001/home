@@ -19,9 +19,9 @@
             <div class="w-12 h-12 bg-white/5 border border-white/10 flex items-center justify-center mb-6 text-white group-hover:bg-blue-500 group-hover:text-white transition-colors">
               <Terminal :size="24" />
             </div>
-            <h3 class="text-xl font-bold text-white mb-4">核心工程</h3>
+            <h3 class="text-xl font-bold text-white mb-4">技术栈</h3>
             <p class="text-sm text-neutral-500 mb-6 leading-relaxed">
-              底层逻辑构建与高性能计算。我不写多余的代码,每一行都有其存在的战略意义。
+              掌握从前端到后端的完整技术链路,用代码实现产品价值。
             </p>
             <div class="space-y-3">
               <div
@@ -45,9 +45,9 @@
             <div class="w-12 h-12 bg-white/5 border border-white/10 flex items-center justify-center mb-6 text-white group-hover:bg-blue-500 group-hover:text-white transition-colors">
               <Zap :size="24" />
             </div>
-            <h3 class="text-xl font-bold text-white mb-4">基础设施</h3>
+            <h3 class="text-xl font-bold text-white mb-4">架构设计</h3>
             <p class="text-sm text-neutral-500 mb-6 leading-relaxed">
-              构建坚不可摧的数字堡垒。高可用性、自动伸缩是标配,不是选配。
+              构建高可用、可扩展的系统架构,支撑业务持续增长。
             </p>
             <div class="space-y-3">
               <div
@@ -71,9 +71,9 @@
             <div class="w-12 h-12 bg-white/5 border border-white/10 flex items-center justify-center mb-6 text-white group-hover:bg-blue-500 group-hover:text-white transition-colors">
               <Activity :size="24" />
             </div>
-            <h3 class="text-xl font-bold text-white mb-4">全栈交付</h3>
+            <h3 class="text-xl font-bold text-white mb-4">产品 & 项目</h3>
             <p class="text-sm text-neutral-500 mb-6 leading-relaxed">
-              从数据流到像素级的前端交互,掌控每一个环节的用户体验与性能。
+              从需求分析到项目交付,掌控产品全生命周期管理。
             </p>
             <div class="space-y-3">
               <div
@@ -95,7 +95,7 @@
 <script setup>
 import { Cpu, Code, Terminal, Server, Zap, Layers, Activity } from 'lucide-vue-next';
 
-const coreSkills = ['Rust / C++', 'Golang', 'System Design'];
-const infraSkills = ['Kubernetes', 'AWS Architecture', 'Terraform'];
-const fullstackSkills = ['React / Next.js', 'PostgreSQL', 'GraphQL'];
+const coreSkills = ['Vue / React', 'Node.js / Python', 'TypeScript'];
+const infraSkills = ['微服务架构', 'MySQL / Redis', 'Docker / K8s'];
+const fullstackSkills = ['需求分析', '项目管理', '敏捷开发'];
 </script>

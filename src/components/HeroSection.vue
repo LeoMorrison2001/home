@@ -14,7 +14,7 @@
             <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
             <span class="relative inline-flex rounded-full h-2 w-2 bg-emerald-500"></span>
           </span>
-          SYSTEM OPTIMAL // v3.0.1
+          FULL-STACK READY // ARCHITECT MODE
         </div>
 
         <h1 class="text-7xl md:text-9xl font-bold text-white tracking-tighter leading-[0.85] mb-12">
@@ -24,8 +24,8 @@
         </h1>
 
         <p class="text-xl text-neutral-400 max-w-xl leading-relaxed mb-10 border-l-2 border-white/20 pl-6">
-          我不只是编写代码,我构建能够解决复杂商业问题的数字化帝国。
-          <span class="block mt-2 text-white font-medium">全栈架构师 · 效率至上 · ENTJ</span>
+          懂产品、懂技术、懂管理。从需求洞察到架构设计,从代码实现到项目交付,打造完整的价值闭环。
+          <span class="block mt-2 text-white font-medium">产品经理 × 项目管理 × 全栈开发 × 系统架构</span>
         </p>
 
         <!-- 核心指标展示 -->
@@ -107,10 +107,10 @@
     <div class="absolute bottom-0 left-0 w-full border-t border-white/10 bg-[#0a0a0a]/80 backdrop-blur text-xs font-mono text-neutral-500 py-3 overflow-hidden">
       <div class="flex items-center justify-between px-6">
         <div class="flex gap-8 opacity-70">
-          <span>// ARCHITECTURE_READY</span>
-          <span>// SCALABILITY_MAXIMIZED</span>
-          <span>// SECURITY_PROTOCOL_ALPHA</span>
-          <span class="hidden md:inline">// EFFICIENCY_OPTIMIZED</span>
+          <span>// PRODUCT_STRATEGY</span>
+          <span>// FULL_STACK_DEV</span>
+          <span>// PROJECT_DELIVERY</span>
+          <span class="hidden md:inline">// SYSTEM_ARCHITECTURE</span>
         </div>
         <div class="flex gap-2">
           <div class="w-1 h-1 bg-white rounded-full animate-pulse"></div>

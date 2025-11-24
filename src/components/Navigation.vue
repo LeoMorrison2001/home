@@ -45,7 +45,7 @@ const { scrolled } = useScrolled();
 const { time } = useTime();
 
 const navItems = [
-  { id: 'vision', label: '01. 愿景' },
+  { id: 'vision', label: '01. 策略' },
   { id: 'arsenal', label: '02. 军火库' },
   { id: 'deployment', label: '03. 交付' },
 ];
