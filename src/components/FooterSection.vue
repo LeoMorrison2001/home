@@ -1,6 +1,6 @@
 <template>
   <footer id="contact" class="relative py-32 px-6 border-t border-white/10 bg-[#0a0a0a] overflow-hidden z-10">
-    <div class="max-w-4xl mx-auto text-center relative z-10">
+    <div class="max-w-6xl mx-auto text-center relative z-10">
       <div class="inline-block px-3 py-1 border border-white/10 rounded-full text-xs text-neutral-400 mb-8 font-mono">
         AVAILABLE FOR HIRE
       </div>
