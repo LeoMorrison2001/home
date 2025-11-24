@@ -1,5 +1,5 @@
 <template>
-  <section id="arsenal" class="py-32 px-6 border-b border-white/5 relative z-10 bg-[#050505]">
+  <section id="arsenal" class="py-32 px-6 border-b border-white/5 relative z-10 bg-[#0a0a0a]">
     <div class="max-w-7xl mx-auto">
       <div class="flex items-end justify-between mb-20 border-b border-white/10 pb-6">
         <div>

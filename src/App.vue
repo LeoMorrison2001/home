@@ -1,5 +1,5 @@
 <template>
-  <div class="min-h-screen bg-[#050505] text-neutral-300 font-sans selection:bg-emerald-500/30 selection:text-emerald-200 overflow-x-hidden relative">
+  <div class="min-h-screen bg-[#0a0a0a] text-neutral-300 font-sans selection:bg-emerald-500/30 selection:text-emerald-200 overflow-x-hidden relative">
 
     <!-- 全局背景装饰 - 极细网格与光晕 -->
     <div class="fixed inset-0 z-0 pointer-events-none">

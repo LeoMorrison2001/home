@@ -1,5 +1,5 @@
 <template>
-  <footer id="contact" class="relative py-32 px-6 border-t border-white/10 bg-[#050505] overflow-hidden z-10">
+  <footer id="contact" class="relative py-32 px-6 border-t border-white/10 bg-[#0a0a0a] overflow-hidden z-10">
     <div class="max-w-4xl mx-auto text-center relative z-10">
       <div class="inline-block px-3 py-1 border border-white/10 rounded-full text-xs text-neutral-400 mb-8 font-mono">
         AVAILABLE FOR HIRE
@@ -33,12 +33,12 @@
 
       <div class="mt-20 pt-10 border-t border-white/5 flex flex-col md:flex-row items-center justify-between gap-8 text-sm text-neutral-600">
         <div class="font-mono">
-          © {{ currentYear }} ARCHITECT.
+          © {{ currentYear }} 任宇恒.
         </div>
         <div class="flex gap-8">
-          <a href="#" class="hover:text-white transition-colors">GITHUB</a>
-          <a href="#" class="hover:text-white transition-colors">LINKEDIN</a>
-          <a href="#" class="hover:text-white transition-colors">TWITTER</a>
+          <a href="#" class="hover:text-white transition-colors">X</a>
+          <a href="#" class="hover:text-white transition-colors">NOTION</a>
+          <a href="#" class="hover:text-white transition-colors">YOUTUBE</a>
         </div>
       </div>
     </div>

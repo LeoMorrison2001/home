@@ -1,5 +1,5 @@
 <template>
-  <section id="deployment" class="py-32 px-6 bg-[#050505] relative z-10">
+  <section id="deployment" class="py-32 px-6 bg-[#0a0a0a] relative z-10">
     <div class="max-w-7xl mx-auto">
       <div class="flex items-end justify-between mb-20 border-b border-white/10 pb-6">
         <div>
@@ -12,7 +12,7 @@
       <div class="space-y-20">
         <!-- Project 1 -->
         <div class="group border-l-2 border-white/10 pl-8 hover:border-emerald-500 transition-colors duration-500 relative">
-          <div class="absolute -left-[9px] top-0 w-4 h-4 bg-[#050505] border-2 border-white/10 rounded-full group-hover:border-emerald-500 transition-colors"></div>
+          <div class="absolute -left-[9px] top-0 w-4 h-4 bg-[#0a0a0a] border-2 border-white/10 rounded-full group-hover:border-emerald-500 transition-colors"></div>
 
           <div class="grid md:grid-cols-2 gap-12">
             <div>
@@ -65,7 +65,7 @@
 
         <!-- Project 2 -->
         <div class="group border-l-2 border-white/10 pl-8 hover:border-emerald-500 transition-colors duration-500 relative">
-          <div class="absolute -left-[9px] top-0 w-4 h-4 bg-[#050505] border-2 border-white/10 rounded-full group-hover:border-emerald-500 transition-colors"></div>
+          <div class="absolute -left-[9px] top-0 w-4 h-4 bg-[#0a0a0a] border-2 border-white/10 rounded-full group-hover:border-emerald-500 transition-colors"></div>
 
           <div class="grid md:grid-cols-2 gap-12">
             <div>

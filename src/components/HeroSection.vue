@@ -47,7 +47,7 @@
 
       <!-- 右侧抽象系统面板 -->
       <div class="lg:col-span-5 relative hidden lg:block">
-        <div class="relative z-10 bg-[#0A0A0A] border border-white/10 p-6 rounded-lg shadow-2xl backdrop-blur-xl">
+        <div class="relative z-10 bg-[#121212] border border-white/10 p-6 rounded-lg shadow-2xl backdrop-blur-xl">
           <!-- 伪代码/状态监控头部 -->
           <div class="flex justify-between items-center border-b border-white/10 pb-4 mb-6">
             <div class="flex gap-2">
@@ -104,7 +104,7 @@
     </div>
 
     <!-- 底部滚动条 -->
-    <div class="absolute bottom-0 left-0 w-full border-t border-white/10 bg-[#050505]/80 backdrop-blur text-xs font-mono text-neutral-500 py-3 overflow-hidden">
+    <div class="absolute bottom-0 left-0 w-full border-t border-white/10 bg-[#0a0a0a]/80 backdrop-blur text-xs font-mono text-neutral-500 py-3 overflow-hidden">
       <div class="flex items-center justify-between px-6">
         <div class="flex gap-8 opacity-70">
           <span>// ARCHITECTURE_READY</span>
